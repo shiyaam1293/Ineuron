@@ -1,2 +1,2 @@
-# Programming-Basic-Assignment
+# Python-Basic-Assignment
 Python basic programming Assignemnt
